@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+    <h1>Śmieszne fimiki</h1>
+    <p>Tu będą bardzo śmieszne filmiki</p>
+    <section>
+        <h2>Śmieszny filmik 1</h2>
+        <p> Żarty na prima aprilis</p>
+
+        <iframe
+        src="https://youtube.com/embed/cBCfiq9N7xY?si=_9VyKkmDDKcWZKXg" title="prima aprilis"
+        allowfullscreen
+        height="200"
+        width="300">
+        </iframe>
+    </section>
+
+    <section>
+        <h2>Śmieszny filmik 2</h2>
+        <p>5 kilo nutelli ;)</p>
+
+        <iframe
+        src="https://youtube.com/embed/4c5Bxwz_0gY?si=xuT2DMY2SVOEzV63"
+        allowfullscreen title="nutella"
+        width="300"
+        height="200">
+        </iframe>
+    </section>
+
+    <section>
+        <h2>Śmieszny filmik 3</h2>
+        <p>Bigos głową miesza :D</p>
+
+        <iframe
+        src="https://youtube.com/embed/bIU5lPRyyvs?si=79IDhtvwvMSAXZTU"
+        allowfullscreen title="bigos"
+        height="200"
+        width="300">
+        </iframe>
+    </section>
+
+    
+</body>
+
+
+
+</html>

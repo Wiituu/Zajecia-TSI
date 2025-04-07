@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a> </li>
+            <li><a href="#past-events">Past Events</a> </li>
+        </ul>
+    </nav>
+
+</header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Koncert Dżemu</h3>
+                <p>Koncert odbędzie się na scenie głównej</p>
+                <p>Data: 20.04.2024 godz. 18:00
+            </article>
+            <article>
+            <h3>Posiłek Myśliwski</h3>
+            <p>Zaplanowany posiłek po Koncercie zespołu Dżem</p>
+            <p>Data: 20.04.2024</p>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Wyścig Kajakowy</h3>
+                <p>Wyścig Kajakowy po jeziorze Malta z nagrodami</p>
+                <p>Data: 20.03.2024 godz. 14:00</p>
+                <img src="https://wioslo.pl/wp-content/uploads/2013/10/komar976as.jpg" alt="splyw kajakowy" width="350"/>
+            </article>
+            <article>
+                <h3>Wspólne Malowanie Przyrody</h3>
+                <p>Malowanie łona natury na Polanie Harcerza</p>
+                <p>Data: 20.03.2024 godz. 16:30</p>
+                <img src="https://cdn-blog.superprof.com/blog_pl/wp-content/uploads/2020/10/kobieta-malujaca-rozowy-obraz.jpg" alt="malowanie obrazu" width="350"/>
+            </article>    
+
+
+
+</body>
+
+</html>

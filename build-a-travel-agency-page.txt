@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel Agency</title>
+    <meta name="description" content="Discover Italy">
+    </head>
+    <body>
+<h1>Discover Poland</h1>
+<p>Poland offers charming historic cities, stunning mountains, pristine forests, scenic lakes, vibrant culture, rich history, delicious cuisine, and beautiful Baltic beaches—all at an affordable price.</p>
+<h2>Packages</h2>
+<p>Discover Poland with our all-in-one travel packages featuring guided city tours, scenic nature escapes, cultural experiences, and unforgettable local flavors—all hassle-free and affordable!</p>
+<ul>
+  <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a> </li>
+  <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a> </li>
+</ul>
+  <h2>Top Itineraries</h2>
+  <figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://www.poznan.pl/mim/info/pictures/obrazek,pic1,1016,231727,408974,show2.jpg&_sst=1743433508072" width="250" alt="Poznań"> </a>
+<figcaption>Poznań</figcaption>
+    </figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://podrozowac.pl/storage/posts/2024/12/warszawa-top10-1-c0331681.jpg" width="250" alt="Warszawa"> </a>
+<figcaption>Warszawa</figcaption>
+    </figure>
+<figure>
+<a href="https://www.freecodecamp.org/learn" target="_blank"> <img src="https://www.pot.gov.pl/images/Wroc%C5%82aw%20du%C5%BCe.jpg" width="250" alt="Wrocław"> </a>
+<figcaption>Wrocław</figcaption>
+    </figure>
+      </body>
+      </html>
