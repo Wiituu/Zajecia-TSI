@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<title>Aglio e olio</title>
+<meta charset="utf-8">
+
+    </head>
+<body>
+<h1>Pasta Aglio e olio</h1>
+<p>Siema, dzisiaj zrobimy pastę aglio e olio, czyli makaron z czosnkiem i oliwą, ale po naszemu – szybko, tanio i tak, żeby sąsiad zaczął się ślinić pod drzwiami, jak tylko poczuje zapach. Żadnych udziwnień, żadnych trufli, żadnych gluten-free nonsense. Tylko makaron, czosnek, oliwa i ogień w garach.
+
+To danie jest tak proste, że nawet Janusz po trzech Harnasiach ogarnie. A jak nie ogarnie, to znaczy, że potrzebuje czwartego. Lecimy z tym, bo głodni nie będziemy siedzieć!</p>
+<img src="https://images.aws.nestle.recipes/original/f0a2d4e6e0f85e1523ee2ee2ac184138_spaghetti_aioli_klasyczne__16.jpg" width="400" alt="zdjęcie makaronu kurde">
+<h2>Ingredients</h2>
+<ul>
+  <li>225g makaronu </li>
+  <li>2 ząbki czosnku</li>
+  <li>3/4 papryczki chilli </li>
+  <li>1/2 pęczka natki pietruszki </li>
+  <li>Sól i pieprz do smaku </li>
+  <li>Starty parmezan </li>
+  </ul>
+<h2>Instructions</h2>
+<ol>
+  <li>Lej wody do garka tyle, żeby makaron nie leżał tam jak trup na dnie. Dorzuć solidną garść soli – tak, żeby woda smakowała jak Bałtyk po sezonie. Odpal gaz i czekaj aż zawrze. Możesz w tym czasie popatrzeć w ścianę albo zadzwonić do Grażyny, że dziś znowu gotujesz "po włosku"</li>
+  <li>Na patelni rozgrzewasz oliwę z oliwek – najlepiej jak najwięcej, żeby wszystko ładnie się w niej wytaplało</li>
+  <li>Czosnek kroisz w cienkie plasterki – delikatnie, żeby nie przypalić. Podsmażasz go na tej oliwie, aż zacznie pachnieć tak, że sąsiedzi pomyślą, że prowadzisz trattorię</li>
+  <li>Dodajesz pokrojoną papryczkę chili – ostrożnie, ale z charakterem. Bez niej to nie to samo. Podsmaż razem z czosnkiem, ale tylko chwilę</li>
+  <li>Makaron z garnka od razu na patelnię – nie musisz go dokładnie odcedzać, trochę wody z gotowania wręcz się przyda. Wszystko mieszaj, żeby makaron oblepił się oliwą, czosnkiem i chili jak należy</li>
+  <li>Na koniec posypujesz świeżą pietruszką – dodaje koloru i świeżości</li>
+  <li>(Opcjonalnie) Możesz posypać startym serem, jak masz pod ręką. Ale to już freestyle – wersja „na bogato"</li>
+  </body>
+</html>
