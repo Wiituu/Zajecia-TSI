@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <header>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">This is a survey about Kurzy jeździeć</p>
+  </header>
+
+  <body>
+    <form id="survey-form">
+      <div>
+      <label id="name-label">Your Name</label>
+      <input id="name" type="text" placeholder="Steve" required/>     </div>
+      <div>
+      <label id="email-label">Your Email</label>
+      <input id="email" type="email"  placeholder="steve@nether.pl" required>
+      </div>
+      <div>
+        <label id="number-label">Your number (optional)
+        <input id="number" type="number" min="1" max="999" placeholder="123456789">
+      </div>
+
+      <div class="kurzy-form"> 
+        <p>Did you enjoy Kurzy jeździec?</p>
+        <select id="dropdown">
+          <option disabled selected value>Choose</option>
+          <option id="yes">Yes</option>
+          <option id="no">No</option>
+        </select>
+        <p>Would you recommend Kurzy jeździec?</p>
+        <label>
+          <input type="radio" name="kurzy-recommend" value="yes" class="input-radio" checked/>Yes
+        </label>
+        <label>
+          <input type="radio" name="kurzy-recommend" value="no" class="input-radio"/>No
+        </label>
+      </div>
+      <p>What is your favourite feature of Kurzy jeździec?</p>
+      <select id="dropdown">
+        <option disabled selected value>Steve</option>
+        <option id="kurzy">Kurzy</option>
+        <option id="jezdziec">Jeździec</option>
+      </select>
+      <p>What is the best feature about Kurzy jeździec?</p>
+      <label>
+        <input type="checkbox" name="kurzy-best" value="kurzy" class="input-checkbox" checked>Kurzy
+      </label>
+      <label>
+        <input type="checkbox" name="kurzy-best" value="jezdziec" class="input-checkbox">Jeździec
+      </label>
+      <p>Share with us more about Kurzy jeździec that we could have missed</p>
+      <textarea id="kurzyjezdziec" name="kurzy" class="input-textarea" placeholder="Kurzy jeździec..."></textarea>
+      <div><button type="submit" id="submit" class="input-button">Submit</button>
+      </div>
+  </body>
+</html>
