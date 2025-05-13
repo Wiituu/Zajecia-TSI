@@ -1,0 +1,24 @@
+console.log("Hello! I'm your coding fun fact guide!");
+
+let botName="darek2008video";
+let botLocation="Wydział Mechaniczno-technologiczny Politechniki Rzeszowskiej";
+let favoriteLanguage="HTML";
+
+let botIntroduction="My name is "+botName+" and I live on "+botLocation+".";
+console.log(botIntroduction);
+
+console.log("My favorite programming language is "+favoriteLanguage+".");
+
+let codingFact= favoriteLanguage+" was never meant to be a programming language — yet somehow it's still responsible for more broken websites than actual code!";
+console.log(codingFact);
+
+codingFact=favoriteLanguage+" is so forgiving that you can forget to close tags, nest things incorrectly, or even misspell some elements—and the browser will still try its best to render your page without complaining."
+console.log(codingFact);
+
+codingFact="You can create an entire functional web page with just "+favoriteLanguage+" — no CSS, no JavaScript — but it'll look like it came straight out of 1995. It's fully valid...and fully ulgy!"
+console.log(codingFact);
+
+let botByeBye="It was fun sharing these facts with you. Goodbye! - "+botName+" from "+botLocation+".";
+console.log(botByeBye);
+
+

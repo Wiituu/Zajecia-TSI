@@ -1,0 +1,31 @@
+** start of script.js **
+
+let fortune1="Kupisz dzisiaj piwko";
+let fortune2="Wygrasz dzisiaj piwko";
+let fortune3="Wypijesz dzisiaj piwko";
+let fortune4="Ktoś kupi ci dzisiaj piwko";
+let fortune5="Nie wypijesz dzisiaj piwko(smutne)";
+
+let randomNumber = Math.floor(Math.random() * 5) + 1;
+
+let selectedFortune;
+
+if (randomNumber === 1) {
+  selectedFortune = fortune1;
+} 
+else if (randomNumber === 2) {
+  selectedFortune = fortune2;
+} 
+else if (randomNumber === 3) {
+  selectedFortune = fortune3;
+} 
+else if (randomNumber === 4) {
+  selectedFortune = fortune4;
+} 
+else if (randomNumber === 5) {
+  selectedFortune = fortune5;
+}
+console.log(selectedFortune);        
+
+** end of script.js **
+

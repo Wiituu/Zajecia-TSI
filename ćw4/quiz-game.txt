@@ -1,0 +1,59 @@
+const questions = [
+  {
+    category: "Science",
+    question: "What is the chemical symbol for gold?",
+    choices: ["Au", "Ag", "Pt"],
+    answer: "Au"
+  },
+  {
+    category: "Geography",
+    question: "Which country is home to the kangaroo?",
+    choices: ["Australia", "Brazil", "South Africa"],
+    answer: "Australia"
+  },
+  {
+    category: "History",
+    question: "In which year did World War II end?",
+    choices: ["1945", "1939", "1950"],
+    answer: "1945"
+  },
+  {
+    category: "Sports",
+    question: "Which sport uses a shuttlecock?",
+    choices: ["Badminton", "Tennis", "Squash"],
+    answer: "Badminton"
+  },
+  {
+    category: "Entertainment",
+    question: "Who played Jack Dawson in Titanic?",
+    choices: ["Leonardo DiCaprio", "Brad Pitt", "Tom Cruise"],
+    answer: "Leonardo DiCaprio"
+  }
+];
+
+function getRandomQuestion(questionsArray) {
+  const randomIndex = Math.floor(Math.random() * questionsArray.length);
+  return questionsArray[randomIndex];
+}
+
+function getRandomComputerChoice(choicesArray) {
+  const randomIndex = Math.floor(Math.random() * choicesArray.length);
+  return choicesArray[randomIndex];
+}
+
+function getResults(questionObj, computerChoice) {
+  if (computerChoice === questionObj.answer) {
+    return "The computer's choice is correct!";
+  } else {
+    return `The computer's choice is wrong. The correct answer is: ${questionObj.answer}`;
+  }
+}
+
+const randomQuestion = getRandomQuestion(questions);
+const computerChoice = getRandomComputerChoice(randomQuestion.choices);
+const result = getResults(randomQuestion, computerChoice);
+
+console.log("Category:", randomQuestion.category);
+console.log("Question:", randomQuestion.question);
+console.log("Computer's choice:", computerChoice);
+console.log(result);

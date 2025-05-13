@@ -1,0 +1,26 @@
+** start of script.js **
+
+let adjective="Big ";
+let noun="Pudzian";
+let verb="tickled";
+let place="village";
+let adjective2="massive";
+let noun2="piwko";
+
+const firstStory="Once upon a time, there was a(n) "+adjective+" "+noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+".";
+console.log("First story: "+firstStory);
+
+adjective="Deranged ";
+noun="Individual";
+verb="squeezed";
+place="toitoi";
+adjective2="crooked";
+noun2="plums";
+
+const secondStory="Once upon a time, there was a(n) "+adjective+" "+noun+" who loved to eat "+noun2+". The "+noun+" lived in a "+place+" and had "+adjective2+" nostrils that blew fire when it was "+verb+".";
+
+console.log("Second story: "+ secondStory);
+
+
+** end of script.js **
+
